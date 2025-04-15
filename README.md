@@ -87,8 +87,8 @@ The code is modular, cleanly structured, and easy to extend with more strategies
 
 - **A'laa Amin Abdulaziz Elgezery**  
 - **Habiba Abo Khalil Hadaad Abo Amna**  
-- **Rania Ahmed Antar**  
 - **Salma Mahmoud**
+- **Rania Ahmed Antar** 
 
 We worked together throughout the entire project—from brainstorming and planning to writing and testing the final implementation. Every member contributed to coding, debugging, and documentation. The result is a reliable, informative, and elegant simulation that reflects a deep understanding of memory management in operating systems.
 
