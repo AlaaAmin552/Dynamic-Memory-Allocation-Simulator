@@ -78,4 +78,5 @@ In this simulation, compaction is not automatic but can be triggered manually. W
 - Habiba Abo Khalil Hadaad Abo Amna
 - Salma Mahmoud 
 - Rania Ahmed Antar
+
 Each team member contributed to the planning, implementation, testing, and documentation of the simulation. The work was done collaboratively, with everyone sharing ideas and responsibilities to ensure the project accurately reflects memory management behavior in operating systems.
