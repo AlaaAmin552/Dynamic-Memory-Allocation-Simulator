@@ -1,5 +1,4 @@
 # Memory Allocation Simulation – Operating Systems Project  
-### Faculty of Computers and Information
 
 This repository contains a fully functional simulation of memory allocation strategies used in operating systems. The project was developed as part of our coursework in Operating Systems, aiming to provide both a practical and conceptual understanding of how memory is managed in real systems.
 
