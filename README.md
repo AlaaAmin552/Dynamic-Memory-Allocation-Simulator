@@ -10,7 +10,7 @@ Through this project, we not only simulated the basic behavior of memory allocat
 
 The project also provided us with a valuable team experience, where we divided roles, discussed logic structures, tested various edge cases, and ensured the code is clean, understandable, and well-commented.
 
----
+
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ The project also provided us with a valuable team experience, where we divided r
 - [Code Structure](#code-structure)
 - [Team Members](#team-members)
 
----
+
 
 ## Overview
 
@@ -29,7 +29,7 @@ Memory management is one of the most crucial aspects of an operating system. As 
 
 This simulation mimics a real-world situation where multiple processes are created, executed, and terminated. It uses the First Fit allocation method, which assigns a new process to the first suitable space in memory. Over time, this leads to fragmentation. The simulation also implements memory compaction, which helps defragment memory and reclaim large continuous blocks.
 
----
+
 
 ## Objectives
 
@@ -40,7 +40,7 @@ This simulation mimics a real-world situation where multiple processes are creat
 - Reflect on real operating system behavior using simplified logic.
 - Practice team-based collaborative development.
 
----
+
 
 ## How the Simulation Works
 
@@ -50,7 +50,7 @@ Each process requests a specific amount of memory. When memory is allocated, it'
 
 To resolve this, the simulation includes a **compaction** function that shifts all allocated blocks to the beginning of memory and merges all free space into a single block. This mimics the compaction feature found in actual operating systems.
 
----
+
 
 ## Execution Scenario
 
@@ -68,7 +68,7 @@ Below is the exact sequence performed when the code runs:
 
 This scenario was chosen carefully to highlight how fragmentation can occur even when enough total memory is available, and how compaction helps resolve it.
 
----
+
 
 ## Code Structure
 
@@ -93,6 +93,3 @@ The code is modular, cleanly structured, and easy to extend with more strategies
 
 We worked together throughout the entire project—from brainstorming and planning to writing and testing the final implementation. Every member contributed to coding, debugging, and documentation. The result is a reliable, informative, and elegant simulation that reflects a deep understanding of memory management in operating systems.
 
----
-
-We hope this project reflects not just technical accuracy, but clarity of thought, collaboration, and a solid grasp of core operating system principles.
