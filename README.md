@@ -82,7 +82,6 @@ This scenario was chosen carefully to highlight how fragmentation can occur even
 
 The code is modular, cleanly structured, and easy to extend with more strategies like Best Fit or Worst Fit if desired.
 
----
 
 ## Team Members
 
