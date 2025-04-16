@@ -90,5 +90,4 @@ The code is modular, cleanly structured, and easy to extend with more strategies
 - **Salma Mahmoud**
 - **Rania Ahmed Antar** 
 
-We worked together throughout the entire project—from brainstorming and planning to writing and testing the final implementation. Every member contributed to coding, debugging, and documentation. The result is a reliable, informative, and elegant simulation that reflects a deep understanding of memory management in operating systems.
 
